@@ -1,0 +1,18 @@
+@charset "UTF-8";
+body {
+    background-color: lightblue;
+    font-size: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: darkcyan;
+    background: darkgray;
+}
+
+h2 {
+    color: aquamarine;
+}
+ p{
+    text-align: justify;
+}
